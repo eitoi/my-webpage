@@ -8,19 +8,26 @@
                 background-color:rgb(0, 255, 0);
             }
             #title {
-                color:yellow;
+                color:rgb(161, 139, 82);
             }
             .inner {
                 background-color:rgb(199, 190, 87);
+            }
+            table {
+                font-size:20px;
+                background-color:rgb(199, 190, 87);
+
             }
         </style>
     </head>
     <body>
         <h1 id = "title">gear tech</h1>
         <ul>
-        <li><a href = "#about">about</a></li>
-        <li><a href = "#join">join</a></li>
-        <li><a href = "#members">members</a></li>
+            <li><a href = "#about">about</a></li>
+            <li><a href = "#join">join</a></li>
+            <li><a href = "#members">members</a></li>
+            <li><a href = "#Announcements ">Announcements</a></li>
+            <li><a href = "#projects">projects</a></li>
         </ul>
         <h3 id = "about">about</h3>
         <div class = "inner" >
@@ -51,6 +58,20 @@
                 <td>founder</td>
             </tbody>
         </table>
+        <h3 id = "Announcements">Announcements </h3>
+        <div class = "inner">no current Announcements.</div>
+        
+        <h3 id = "projects">projects</h3>
+        
+        <h4>programs</h4>
+        <div></div>
+        <h4>webpages</h4>
+        <div></div>
+        <h4>movies</h4>
+        <div></div>
+        <h4>others</h4>
+        <div></div>
+        <a href = "#title"><h3 id = "bottom">to top of page</h3></a>
         <script>
             
         </script>
