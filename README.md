@@ -20,6 +20,7 @@
         <ul>
         <li><a href = "#about">about</a></li>
         <li><a href = "#join">join</a></li>
+        <li><a href = "#members">members</a></li>
         </ul>
         <h3 id = "about">about</h3>
         <div class = "inner" >
@@ -29,8 +30,27 @@
         </div>
         <h3 id = "join">want to join?</h3>
         <div class = "inner">
-        
+            <h4>requirements:</h4>
+            <ol>
+                <li>you must be over 90% intro to js</li>
+                <li>you must like using computers</li>
+                <li>you must know how to use links and tables in html</li>
+                <li>you must know a good amount of css selectors</li>
+            </ol>
         </div>
+        <h3 id = "members">members</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>username</th>
+                    <th>rank</th>
+                </tr>
+            </thead>
+            <tbody>
+                <td>eitoi</td>
+                <td>founder</td>
+            </tbody>
+        </table>
         <script>
             
         </script>
